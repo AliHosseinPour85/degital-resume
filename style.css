@@ -1,7 +1,8 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #f9f9f9;
-    color: #333;
+    background-image: url('1.jpg'); 
+    background-size: cover;
+    background-position: center; 
     margin: 20px;
     padding: 20px;
 }
@@ -12,19 +13,23 @@ header {
 }
 
 h1 {
-    color: #2c3e50;
+    color: #ffffff;
     margin-bottom: 10px;
 }
 
 h2 {
-    color: #3498db;
-    border-bottom: 2px solid #3498db;
+    color: #347cdb;
+    border-bottom: 2px solid #347cbd;
     padding-bottom: 5px;
     margin-top: 20px;
 }
 
 ul {   
     padding-left: 20px;
+    color: aliceblue;
 }
 
+p {
+    color: aliceblue;
+}
 
